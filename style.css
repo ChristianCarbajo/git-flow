@@ -9,3 +9,23 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+header {
+    background-color: aqua;
+
+}
+
+nav {
+
+    margin-top: -20px;
+}
+
+#enlaces li{
+  list-style: none;
+
+  }
+
+#enlaces a{
+  text-decoration: none;
+  color: white;
+  }
