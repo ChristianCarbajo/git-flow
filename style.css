@@ -10,13 +10,11 @@ body {
     align-items: center;
 }
 
-<<<<<<< HEAD
 footer{
     background-color: firebrick;
     font-size: 30px;
     color:black;
 }
-=======
 header {
     background-color: aqua;
 
@@ -36,4 +34,3 @@ nav {
   text-decoration: none;
   color: white;
   }
->>>>>>> feature/created-navbar
